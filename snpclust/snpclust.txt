@@ -1,0 +1,38 @@
+reference path:
+"/opt/10x/refdata-gex-GRCh38-2020-A"
+
+possorted bam:
+"/opt/10x/CZ0124/CZ0124_blood.bam"
+
+cell barcodes:
+"/opt/10x/CZ0124/barcodes.tsv"
+
+
+random:
+"/mnt/data_ini/data/Lab members/HKI/Mahima Arunkumar/Analysis_and_Data/allo-HSCT/Data/opt/10x/CZ0124/barcodes.tsv"
+/mnt/data_ini/data/"Lab members"/HKI/"Mahima Arunkumar"/Analysis_and_Data/allo-HSCT/Data
+/mnt/data_ini/data/'Lab members'/HKI/'Mahima Arunkumar'/Analysis_and_Data/allo-HSCT/Data
+
+
+Pipeline:
+export PATH=/opt/10x/ranger-1.0.1:/opt/10x/ranger-1.0.1/freebayes/v1.0.2:$PATH
+export MROPATH=/opt/10x/single-cell-3prime-snp-clustering/mro:$MROPATH
+export PYTHONPATH=/mnt/data_ini/data/"Lab members"/HKI/"Mahima Arunkumar"/Analysis_and_Data/allo-HSCT/Data/opt/10x/single-cell-3prime-snp-clustering/lib/python/:/mnt/data_ini/data/"Lab members"/HKI/"Mahima Arunkumar"/Analysis_and_Data/allo-HSCT/Data/opt/10x/ranger-1.0.1/ranger-cs/1.0.1/tenkit/lib/python:$PYTHONPATH
+ranger mrp /CZ0124/CZ0124_blood.mro CZ0124_blood
+
+
+
+#############################################################
+
+export PATH=/home/marunku/opt/10x/ranger-1.0.1:$PATH
+export MROPATH=/home/marunku/opt/10x/cellranger-snpclust-src-1.0.0/mro:$MROPATH
+export PYTHONPATH=/home/marunku/opt/10x/cellranger-snpclust-src-1.0.0/lib/python/:/opt/10x/ranger-1.0.1/ranger-cs/1.0.1/tenkit/lib/python:$PYTHONPATH
+
+
+
+Generate reference data:
+cellranger mkgtf Homo_sapiens.GRCh37.82.gtf Homo_sapiens.GRCh37.82.filtered.gtf --attribute=gene_biotype:protein_coding --attribute=gene_biotype:lincRNA --attribute=gene_biotype:antisense
+cellranger mkref --genome=hg19 --fasta=Homo_sapiens.GRCh37.dna.primary_assembly.fa --genes=Homo_sapiens.GRCh37.82.filtered.gtf --ref-version=1.2.0
+
+
+
