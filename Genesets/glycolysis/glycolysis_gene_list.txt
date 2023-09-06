@@ -1,0 +1,11 @@
+List1
+
+Hallmark GlycolysisSource: Liberzon, Arthur et al. “The Molecular Signatures Database (MSigDB) hallmark gene set collection.” Cell systems vol. 1,6 (2015): 417-425. doi:10.1016/j.cels.2015.12.004 
+Genes encoding proteins involved in glycolysis and gluconeogenesis.
+
+List2
+
+https://maayanlab.cloud/Harmonizome/gene_set/Glycolysis/PANTHER+Pathways
+
+
+

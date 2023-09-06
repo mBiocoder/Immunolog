@@ -1,0 +1,9 @@
+List 1
+ref: Reference Effector genes: "effector genes" in Fig. 1 c,d of
+      Pauken, Kristen E., Morgan A. Sammons, Pamela M. Odorizzi, Sasikanth Manne, Jernej Godec, Omar Khan, Adam M. Drake et al. "Epigenetic stability of exhausted T cells limits durability of reinvigoration by PD-1 blockade." Science 354, no. 6316 (2016): 1160-1165.
+
+"GZMB","GZMK","IFNG","EOMES","ITGAD","ITGAX","ITGB7","CXCR3","CCR5"
+
+List 2 (from figure rocket chat - 10.01.23) - Maike Hoffmann, Nature paper:
+
+"KLRG1","CX3CR1", "PRDM1", "TNF", "TBX21","BHLHE40","RORC","RORA","ZEB2","ID2"

@@ -1,0 +1,11 @@
+
+List1
+
+Exhaustion Consensus GenesSource: Kusnadi, Anthony et al. “Severely ill COVID-19 patients display impaired exhaustion features in SARS-CoV-2-reactive CD8+ T cells.” Science immunology vol. 6,55 (2021): eabe4782. doi:10.1126/sciimmunol.abe4782
+Description: A consensus list of exhaustion signature genes (n=62) from 9 studies that reported exhaustion features in T cells analyzed from patients with infection or cancer and in mouse models of viral infection.
+
+
+List2 (from figure rocket chat - 10.01.23): Maike Hoffmann, Nature
+
+"PDCD1","ENTPD1","CTLA4","LAG3","TIGIT","TRIB1","BATF","TOX","TOX2"
+

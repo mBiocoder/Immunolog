@@ -1,0 +1,2 @@
+List1
+http://amigo.geneontology.org/amigo/term/GO:0050862

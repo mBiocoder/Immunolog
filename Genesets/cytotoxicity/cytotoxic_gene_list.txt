@@ -1,0 +1,8 @@
+List1 - Positive regulation of T cell mediated cytotoxicity: GO:0001916, http://amigo.geneontology.org/amigo/term/GO:0001916
+
+List2 - (from figure rocket chat - 10.01.23): Maike Hoffmann, Nature
+
+"GZMA","GZMB","GNLY","PRF1","IFNG"
+
+List 3 - Guo, Xinyi et al. “Global characterization of T cells in non-small-cell lung cancer by single-cell sequencing.” Nature medicine vol. 24,7 (2018): 978-985. doi:10.1038/s41591-018-0045-3Based on: Tirosh, Itay et al. “Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq.” Science (New York, N.Y.) vol. 352,6282 (2016): 189-96. doi:10.1126/science.aad0501
+

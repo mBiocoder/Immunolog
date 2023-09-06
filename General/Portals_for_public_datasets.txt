@@ -1,0 +1,17 @@
+- Broad institute single cell portal:
+https://singlecell.broadinstitute.org/single_cell
+- EBI (Cambridge)
+https://www.ebi.ac.uk/gxa/sc/home
+
+https://www.ebi.ac.uk/gxa/sc/experiments/E-MTAB-6075/results/tsne
+
+https://panglaodb.se/
+http://single-cell.riken.jp/SCPortalen_Database/Home/
+
+- DISCO: ein sehr neue Datenbank:
+https://www.immunesinglecell.org/
+
+-Generelle datenbanken: GEO und ArrayExpress und ENA:
+https://www.ebi.ac.uk/arrayexpress/
+https://www.ncbi.nlm.nih.gov/geo/
+https://www.ebi.ac.uk/ena/browser/home

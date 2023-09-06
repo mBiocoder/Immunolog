@@ -1,0 +1,3 @@
+List 1
+
+Positive regulation of T cell activation: GO:0050870, http://amigo.geneontology.org/amigo/term/GO:0050870
