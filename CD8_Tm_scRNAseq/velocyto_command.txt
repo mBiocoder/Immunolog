@@ -1,0 +1,1 @@
+velocyto run -b ./runs/0171/outs/per_sample_outs/0171/count/sample_filtered_feature_bc_matrix/barcodes.tsv -o velocyto_0171/ ./runs/0171/outs/per_sample_outs/0171/count/sample_alignments.bam ./reference_genomes/refdata-gex-GRCh38-2020-A/genes/genes.gtf
